@@ -1,10 +1,10 @@
-# SDLC-PROJECT-
-
 # Project Implementation: Gaming Optimizer using Incremental Model in SDLC
 
 ### Introduction:
 
 The Gaming Optimizer project aims to enhance the gaming experience by optimizing system resources, improving performance, and providing customization options for gamers. The project will be implemented using the Incremental Model in the Software Development Life Cycle (SDLC) to ensure iterative development and continuous improvements.
+
+https://github.com/Arjon22/SDLC-PROJECT-/assets/157396852/75046718-7ce5-4ce4-90c4-aa61fcd3fbc7
 
 
 ### 1.Project Planning:
