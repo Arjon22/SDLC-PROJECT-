@@ -80,9 +80,3 @@ Gather user feedback post-deployment for further refinements.
 Collect feedback from the gaming community and analyze usage metrics.
 Implement updates and patches to address issues and enhance functionalities.
 Provide ongoing support and maintenance to ensure optimal performance.
-## Demo
-
-Insert gif or link to demo
-
-
-
